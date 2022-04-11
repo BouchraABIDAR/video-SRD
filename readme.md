@@ -15,7 +15,7 @@
 
 --> b- The process export of that database to Cloud Storage
 
---> c- Dataproc(dataflow) job if transformation is needed
+--> c- Dataproc(or dataflow) job if transformation is needed
 
 --> d- Ingesting data into bigquery(OLAP)
 
