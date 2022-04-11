@@ -5,6 +5,7 @@ export FLASK_ENV=development
 python3 -m venv app-env
 source app-env/bin/activate
 pip install --upgrade pip
-pip flask==2.0.3
+pip install flask==2.0.3 
+pip install flask_sqlalchemy
 
 flask run
