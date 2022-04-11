@@ -21,7 +21,7 @@
 
 --> e- Cloud Scheduler Job to trigger the Cloud Function
 
-<img src="/images/archi.png" />
+[alt text](https://github.com/BouchraABIDAR/video-SRD/blob/main/images/archi.PNG)
  
 
 
