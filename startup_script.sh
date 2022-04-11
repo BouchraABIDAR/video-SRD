@@ -7,5 +7,4 @@ source app-env/bin/activate
 pip install --upgrade pip
 pip flask==2.0.3
 
-flask run 
-./startup_script.sh
+flask run
