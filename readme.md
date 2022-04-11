@@ -3,7 +3,7 @@
 # Steps to follow :
 1- Cone the repository : git clone https://github.com/BouchraABIDAR/video-SRD.git
 
-2- cd api-video
+2- cd video-SRD
 
 3- ./startup_script.sh
 
