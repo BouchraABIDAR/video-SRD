@@ -7,7 +7,7 @@
 
 3- ./startup_script.sh
 
-4- click on this link http://127.0.0.1:5000/ to visualize ([link to application](https://github.com/BouchraABIDAR/video-SRD/blob/main/images/application.PNG))
+4- Once the message "Running on http://127.0.0.1:5000/" appears in your terminal click on this link http://127.0.0.1:5000/ to visualize the application ([link to application](https://github.com/BouchraABIDAR/video-SRD/blob/main/images/application.PNG))
 
 5- Architecture schema that illustrates a solution to cretae an analytics OLAP on GCP that is synchronozied the OLTP ([link to architecture ](https://github.com/BouchraABIDAR/video-SRD/blob/main/images/archi.PNG))
 
