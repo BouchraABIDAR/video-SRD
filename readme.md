@@ -1,9 +1,9 @@
 ## This application presents a solution for using the flask api for video data management
 
 # Steps to follow :
-1- Cone the repository : https://github.com/BouchraABIDAR/video-SRD.git
+1- Cone the repository : git clone https://github.com/BouchraABIDAR/video-SRD.git
 
-2- cd api-video
+2- cd video-SRD
 
 3- ./startup_script.sh
 
